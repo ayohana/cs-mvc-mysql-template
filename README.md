@@ -1,6 +1,6 @@
 # [Project Name](https://github.com/ayohana/ProjectName.git/)
 
-#### C# Basic Web Applications Exercise for [Epicodus](https://www.epicodus.com/), 03.11.2020
+#### C# Basic Web Applications Exercise for [Epicodus](https://www.epicodus.com/), 03.15.2020
 
 #### By [**Adela Darmansyah**](https://ayohana.github.io/portfolio/)
 
@@ -26,7 +26,7 @@
 ## Setup/Installation Requirements
 
 * Download [.NET Core](https://dotnet.microsoft.com/download/dotnet-core/)
-* Clone this [repository](https://github.com/ayohana/anagram.git/)
+* Clone this [repository](https://github.com/ayohana/ProjectName.git/)
 * Open the `Command Line Interface`.
   * Navigate into the `ProjectName` directory.
     * Type in the command `dotnet restore` to gather tools and dependencies for the application.
@@ -48,6 +48,7 @@ Feel free to provide feedback via email: adela.yohana@gmail.com.
 * C#
 * [.NET Core](https://dotnet.microsoft.com/download/dotnet-core/)
 * MVC Pattern
+* MySQL
 
 ### License
 
